@@ -140,6 +140,8 @@ After the application finishes running, a URL will appear in the terminal. You c
 
 You will be met with a JSON output view in the browser.
 
+![Screenshot (107)](https://github.com/pk-aduyaw/Sepsis-Detection-using-ML-API/assets/148882212/1ffaf5ab-69b6-4fd3-a237-bc1063ed3469)
+
 To view the output in a GUI environment to test the API add `/docs` to the URL in the browser.
 
 
