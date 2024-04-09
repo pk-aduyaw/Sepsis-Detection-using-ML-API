@@ -144,8 +144,9 @@ You will be met with a JSON output view in the browser.
 
 To view the output in a GUI environment to test the API add `/docs` to the URL in the browser.
 
+Click on any of the post tags to enter input features to predict the Sepsis likelihood
 
-Click on any the post tags to enter input features to predict Sepsis likelihood
+![Screenshot (106)](https://github.com/pk-aduyaw/Sepsis-Detection-using-ML-API/assets/148882212/06f33c53-0643-4067-8686-2b9036fa595c)
 
 ## 👥 Authors <a name="-authors"></a>
 
